@@ -1,19 +1,32 @@
-#+TITLE:	ResponsivePortfolio Tutorial
+#+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	Log
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD:  
+#+LASTMOD: 2023-05-21 17:52:58-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Tutorials
-#+TAGS[]:	log python
+#+TAGS[]:	log websites html css sass npm javascript portfolios traversymedia
+
+* Sunday, May 21, 2023
+:LOGBOOK:
+CLOCK: [2023-05-21 Sun 16:00]
+CLOCK: [2023-05-21 Sun 06:30]--[2023-05-21 Sun 12:00] =>  5:30
+:END:
+** Development environment
+*** NPM Packages
+- ~node-sass~ - SASS Compiler
+- ~gh-pages~ - GitHub Pages
+- ~npm-run-all~ - CLI tool to run multiple npm-scripts in parallel or sequentially
+*** GO Packages
+- ~algernon~ - Live Reload Web Server
+
+* Saturday, May 20, 2023
+:LOGBOOK:
+CLOCK: [2023-05-20 Sat 08:00]--[2023-05-20 Sat 10:00] =>  2:00
+:END:
+- No wonder I was confused, yesterday--I was looking at the seventh and last video in a series
 
 * Friday, May 19, 2023
 - 
 - 
-
-
-* Friday, May 19, 2023
-- 
-- 
-
 

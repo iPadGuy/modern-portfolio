@@ -1,13 +1,30 @@
-#+TITLE:	ResponsivePortfolio Tutorial
+#+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	README
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD:  
+#+LASTMOD: 2023-05-21 12:06:14-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Tutorials
-#+TAGS[]:	readme python
+#+TAGS[]:	readme websites html css sass npm javascript traversymedia
 
-URL: 
+* URLs
+- [[https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU][Video Playlist]]
+- [[https://github.com/bradtraversy/modern_portfolio][Code Repository]]
 
-* Description
+* Video Description
+In this series we will build a fully responsive portfolio website using modern technologies such as...
 
+HTML5
+CSS3 - Transitions/Grid/Flex
+Sass
+NPM Package Manager
+JavaScript
+Git
+
+* Development Environment
+** NPM Packages
+- ~node-sass~ - SASS Compiler
+- ~gh-pages~ - GitHub Pages
+- ~npm-run-all~ - CLI tool to run multiple npm-scripts in parallel or sequentially
+** GO Packages
+- ~algernon~ - Live Reload Web Server
