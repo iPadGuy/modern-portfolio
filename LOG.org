@@ -1,18 +1,23 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	Log
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-21 17:52:58-0400 (EDT)
+#+LASTMOD: 2023-05-22 09:50:52-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Tutorials
 #+TAGS[]:	log websites html css sass npm javascript portfolios traversymedia
 
+* Monday, May 22, 2023
+:LOGBOOK:
+CLOCK: [2023-05-22 Mon 08:15]
+:END:
+- I finally got the menu button to appear.  It's like Brad said in the video, ~npm run sass~ didn't detect the file changes
 * Sunday, May 21, 2023
 :LOGBOOK:
-CLOCK: [2023-05-21 Sun 16:00]
+CLOCK: [2023-05-21 Sun 16:00]--[2023-05-21 Sun 18:43] =>  2:43
 CLOCK: [2023-05-21 Sun 06:30]--[2023-05-21 Sun 12:00] =>  5:30
 :END:
-** Development environment
+** Development Environment
 *** NPM Packages
 - ~node-sass~ - SASS Compiler
 - ~gh-pages~ - GitHub Pages
