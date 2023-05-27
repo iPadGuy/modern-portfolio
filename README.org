@@ -1,7 +1,7 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	README
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-21 12:06:14-0400 (EDT)
+#+LASTMOD: 2023-05-22 17:29:05-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Tutorials
@@ -28,3 +28,10 @@ Git
 - ~npm-run-all~ - CLI tool to run multiple npm-scripts in parallel or sequentially
 ** GO Packages
 - ~algernon~ - Live Reload Web Server
+
+* Files
+- [[docview:dist/index.html][./dist/index.html]]
+- [[./scss/main.scss]]
+- [[./scss/_config.scss]]
+- [[./scss/_menu.scss]]
+- [[./dist/js/main.js]]
