@@ -1,16 +1,26 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	Log
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-27 06:28:41-0400 (EDT)
+#+LASTMOD: 2023-05-27 08:58:00-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Tutorials
 #+TAGS[]:	log websites html css sass npm javascript portfolios traversymedia
 
 * Saturday, May 27, 2023
+** Menu Overlay
 :LOGBOOK:
-CLOCK: [2023-05-27 Sat 06:30]
+CLOCK: [2023-05-27 Sat 06:30]--[2023-05-27 Sat 08:15] =>  1:45
 :END:
+** Media Query Mixins
+:LOGBOOK:
+CLOCK: [2023-05-27 Sat 08:15]--[2023-05-27 Sat 08:45] =>  0:30
+:END:
+** Mobile CSS
+:LOGBOOK:
+CLOCK: [2023-05-27 Sat 0:00]
+:END:
+
 
 * Tuesday, May 23, 2023
 :LOGBOOK:
@@ -23,7 +33,7 @@ CLOCK: [2023-05-22 Mon 08:15]--[2023-05-22 Mon 11:30] =>  3:15
 :END:
 - I finally got the menu button to appear.  It's like Brad said in the video, ~npm run sass~ didn't detect the file changes
 ** Menu Button
-** Overlay
+** Menu Overlay
 :LOGBOOK:
 CLOCK: [2023-05-22 Mon 12:15]--[2023-05-22 Mon 13:15] =>  1:00
 :END:

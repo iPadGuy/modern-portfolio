@@ -1,7 +1,7 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	README
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-22 17:29:05-0400 (EDT)
+#+LASTMOD: 2023-05-27 08:55:56-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Tutorials
@@ -30,8 +30,12 @@ Git
 - ~algernon~ - Live Reload Web Server
 
 * Files
+** HTML
 - [[docview:dist/index.html][./dist/index.html]]
+** CSS / SCSS / SASS
 - [[./scss/main.scss]]
 - [[./scss/_config.scss]]
 - [[./scss/_menu.scss]]
+- [[./scss/_mobile.scss]]
+** JavaScript
 - [[./dist/js/main.js]]
