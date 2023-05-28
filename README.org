@@ -1,7 +1,7 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	README
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-27 08:55:56-0400 (EDT)
+#+LASTMOD: 2023-05-27 18:08:28-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Tutorials
@@ -32,6 +32,9 @@ Git
 * Files
 ** HTML
 - [[docview:dist/index.html][./dist/index.html]]
+- [[docview:dist/about.html][./dist/about.html]]
+- [[docview:dist/contact.html][./dist/contact.html]]
+- [[docview:dist/work.html][./dist/work.html]]
 ** CSS / SCSS / SASS
 - [[./scss/main.scss]]
 - [[./scss/_config.scss]]

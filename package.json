@@ -4,11 +4,11 @@
 	"description": "URL:",
 	"main": "index.js",
 	"scripts": {
-		"browse": "firefox --private-window http://localhost:3000",
+		"browse": "sleep 3s && firefox --private-window http://localhost:3000",
 		"dev": "npm-run-all --parallel sass serve browse",
-		"npm-check": "npm-check -u",
 		"sass": "node-sass -w scss -o dist/css/ --recursive",
-		"serve": "algernon -a -n -x dist/"
+		"serve": "live-server --no-browser --port=3000 dist/",
+		"serve1": "algernon -a -n -t -x dist/"
 	},
 	"keywords": [],
 	"author": "Patrick Allan",
