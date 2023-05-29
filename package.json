@@ -3,8 +3,10 @@
 	"version": "1.0.0",
 	"description": "URL:",
 	"main": "index.js",
+	"homepage": "https://ipadguy.github.io/modern-portfolio",
 	"scripts": {
 		"browse": "sleep 3s && firefox --private-window http://localhost:3000",
+		"deploy": "gh-pages -d dist",
 		"dev": "npm-run-all --parallel sass serve browse",
 		"sass": "node-sass -w scss -o dist/css/ --recursive",
 		"serve": "live-server --no-browser --port=3000 dist/",

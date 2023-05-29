@@ -1,7 +1,7 @@
 #+TITLE:	Responsive Portfolio Tutorial
 #+SUBTITLE:	Log
 #+DATE:		2023-05-19 16:03:11-04:00
-#+LASTMOD: 2023-05-28 17:55:40-0400 (EDT)
+#+LASTMOD: 2023-05-28 22:49:20-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Tutorials
@@ -10,7 +10,7 @@
 * Sunday, May 28, 2023
 ** Additional Web Pages
 :LOGBOOK:
-CLOCK: [2023-05-28 Sun 16:00]
+CLOCK: [2023-05-28 Sun 16:00]--[2023-05-28 Sun 22:45] =>  6:45
 CLOCK: [2023-05-28 Sun 05:15]--[2023-05-28 Sun 12:00] =>  6:45
 :END:
 
